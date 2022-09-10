@@ -25,7 +25,7 @@ public class MainApplication extends Application {
         }
 
 
-        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
+        Scene scene = new Scene(fxmlLoader.load(), 1000, 500);
         stage.setTitle("Stream Voice");
         stage.setScene(scene);
         stage.show();
