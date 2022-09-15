@@ -17,11 +17,10 @@ public class MainApplication extends Application {
         FXMLLoader fxmlLoader;
 
         if (scripts.isConnection()) {
-            fxmlLoader = new FXMLLoader(getClass().getResource("StartScene.fxml"));
+            fxmlLoader = new FXMLLoader(getClass().getResource("MainScene.fxml"));
         }
         else {
             fxmlLoader = new FXMLLoader(getClass().getResource("ConnectionErrorScene.fxml"));
-
         }
 
 

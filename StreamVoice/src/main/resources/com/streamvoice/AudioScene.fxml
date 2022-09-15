@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+    <children>
+        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../../images/connectionError.png" />
+            </image></ImageView>
+        <Label text="Здесь название песни" />
+        <Hyperlink text="Здесь переход на страницу исполнителя" />
+    </children>
+</VBox>

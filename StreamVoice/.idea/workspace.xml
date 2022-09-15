@@ -34,7 +34,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -74,7 +75,12 @@
       <workItem from="1662654805571" duration="160000" />
       <workItem from="1662706917905" duration="1905000" />
       <workItem from="1662839393290" duration="5310000" />
-      <workItem from="1662845651769" duration="1576000" />
+      <workItem from="1662845651769" duration="5158000" />
+      <workItem from="1662921707102" duration="3718000" />
+      <workItem from="1663181896646" duration="2158000" />
+      <workItem from="1663224518728" duration="7114000" />
+      <workItem from="1663240898759" duration="5119000" />
+      <workItem from="1663269066094" duration="2455000" />
     </task>
     <servers />
   </component>
